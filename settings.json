@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "JLADMI.aternos.me",
     "port": 43907,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
